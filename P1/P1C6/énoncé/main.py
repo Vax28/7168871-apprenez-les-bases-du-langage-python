@@ -1,1 +1,1 @@
-# Écrivez votre code ici !
+fruit = "Pomme" , "Banane" , "Orange". 
